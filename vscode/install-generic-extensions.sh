@@ -26,3 +26,6 @@ code --install-extension ms-vsliveshare.vsliveshare
 
 # productivity
 code --install-extension weakish.complete-statement
+
+# infrastructure as code
+code --install-extension mauve.terraform
